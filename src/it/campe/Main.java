@@ -3,6 +3,8 @@ package it.campe;
 public class Main {
 
     public static void main(String[] args) {
-        //напишите тут ваш код
+        int age = 22;
+        int year = 2021;
+        System.out.println(year - age);
     }
 }
